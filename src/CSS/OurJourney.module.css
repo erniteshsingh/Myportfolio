@@ -1,0 +1,57 @@
+.bodypage{
+    /* background-color: white; */
+}
+
+p{
+
+    text-align: left;
+    color: white;
+    /* text-align: center; */
+    
+}
+h2{
+    /* background-color: dimgray; */
+    /* color: brown; */
+    color: white;
+    font-weight: 300;
+}
+.first_row   h1
+{
+color: white;
+/* background-color: red; */
+margin-top: 10px;
+font-size: 30px;
+color: cadetblue;
+font-weight: 600;
+}
+.first_column
+{
+    height: 550px;
+    /* background-color: blue; */
+    /* background-color: brown; */
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+}
+.second_column
+{
+   
+    height: 550px;
+    /* background-color: brown; */
+    box-shadow: 10px 10px 20px rgba(17, 15, 15, 0.1);
+}
+.third_column
+{
+   
+    height: 550px;;
+    /* background-color: brown; */
+}
+/* 10th standard */
+.subject_section 
+{
+ 
+    background-color: cadetblue;
+}
+.subject_section li{
+    color: brown;
+    font-weight: 300;
+    margin: 4px;
+}

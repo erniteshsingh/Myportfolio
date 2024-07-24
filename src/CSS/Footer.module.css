@@ -1,0 +1,41 @@
+.footer
+{
+    /* background-color: red; */
+    background-color: rgb(41, 48, 48);
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.footersocial li{
+    list-style: none;
+    /* width: 30px;
+    height: 30px;
+     border-radius: 100px; */
+     margin: 30px;
+     /* border: 2px solid white; */
+     
+}
+.footerrow
+{
+justify-content: center;
+}
+.footercol
+{
+    display: flex;
+    justify-content: center;
+}
+.footercol h5
+{
+    margin-top: 35px;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}
+.footercol p
+{
+    margin-top: 35px;
+    color: white;
+    font-weight: 400;
+    font-size: 15px;
+}

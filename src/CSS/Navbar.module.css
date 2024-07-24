@@ -1,0 +1,101 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    /* padding-top: 40px; */
+   
+  }
+  
+  li {
+     float: left;
+     margin-left: 50px;
+   
+     align-items: center;
+     
+    
+  
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-weight: 300;
+    transition: all 0.3s ease-out 0s;
+     position: relative;
+    z-index: 0;
+   
+  }
+  
+  li a:hover:not(.active) {
+    color: brown    ;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+/* logo */
+li img {
+   width: 20px; 
+   border-radius: 100px;
+   margin-left: 22px;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+}
+
+/* Or, use a class to style the image */
+.logo {
+  width: 50px; /* Set the width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+/* Apply styles to the list item if needed */
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  /* margin: 40px; */
+}
+
+.navbar{
+  display: flex;
+  align-items: center;
+  margin-right: 300px;
+  
+}
+
+.navbarlogo{
+  width: 50px;
+  height: 50px;
+  margin-right: 20px;
+  border-radius: 100px;
+}
+
+.navbar-title {
+  font-size: 1.5rem;
+}
+
+.navbar-nav {
+  list-style: none;
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+.demo
+{
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}

@@ -1,0 +1,16 @@
+.rankimg
+{
+    border: 2px solid white;
+}
+.rankimg ul  li
+{
+    /* background-color: rebeccapurple; */
+    width: 150px;
+    height: 100px;
+    
+}
+.rankimg ul  li img
+{
+    margin-top: 15px;
+    width: 30px;
+}

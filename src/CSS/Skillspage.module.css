@@ -1,0 +1,80 @@
+* {box-sizing:border-box}
+
+
+.container {
+  width: 100%; 
+  background-color: #ddd; 
+   border-radius: 20px;
+}
+.container2
+{
+  border-radius: 10px;
+}
+.skills {
+  text-align: right; 
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  color: white; 
+  border-radius: 10px;
+   
+}
+
+.html {
+  width: 40%;
+  height: 30px;
+   background-color: #04AA6D;
+   
+  } 
+   
+.css {
+  width: 50%;
+   background-color: #2196F3;
+   height: 30px;
+  }
+.js {
+  width: 45%; background-color: 
+  #f44336;
+  height: 30px;
+} 
+  p{
+    color: white;
+  }
+  .react {
+    width: 55%;
+    background-color: #163650;
+    height: 30px;
+  } 
+  .c{
+    width: 60%;
+    background-color: cadetblue;
+    height: 30px;
+  }
+  .cplusplus
+  {
+    width: 70%;
+    background-color: rgb(37, 112, 114);
+    height: 30px;
+  }
+  .java{
+    width: 80%;
+    background-color: brown;
+    height: 30px;
+  }
+  .python
+  {
+    width: 40%;
+    background-color: #04AA6D;
+    height: 30px;
+  }
+  .mongodb
+  {
+    width: 40%;
+    background-color: darkgreen;
+    height: 30px;
+  }
+  .dsa{
+    width: 50%;
+    background-color: dimgrey;
+    height: 30px;
+  }
+    

@@ -1,0 +1,27 @@
+.contactimg img{
+width: 470px;
+height: 400px;
+margin-top: 20px;
+border-radius: 5px;
+}
+.form label{
+    text-align: left;
+    color: wheat;
+}
+.form form{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+   /* float: left; */
+}
+.form form input{
+    width: 400px;
+    margin: 10px;
+    height: 40px;
+    border-radius: 10px;
+}
+.sendbutton
+{
+width: 70px;
+margin:10px 10px;
+}
